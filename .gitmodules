@@ -1,0 +1,9 @@
+[submodule "project-get-discount-front-web-user"]
+	path = project-get-discount-front-web-user
+	url = https://github.com/g-aleprojetos/project-get-discount-front-web-user.git
+[submodule "project-get-discount-front-web-admin"]
+	path = project-get-discount-front-web-admin
+	url = https://github.com/g-aleprojetos/project-get-discount-front-web-admin.git
+[submodule "project-get-discount-back"]
+	path = project-get-discount-back
+	url = https://github.com/g-aleprojetos/project-get-discount-back.git
